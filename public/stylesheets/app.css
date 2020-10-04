@@ -1,0 +1,45 @@
+.body {
+  background: slategray;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.thumbnail {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 0;
+    height: 100%;
+}
+
+.thumbnail a img {
+  width: fit-content;
+  height: 25vh;
+  
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete {
+    display: inline;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: white;
+}
+
+
+
+
+
+
